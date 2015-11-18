@@ -1,3 +1,0 @@
-import urllib
-
-startURL = "https://en.wikipedia.org/wiki/CodeHS"
